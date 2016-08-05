@@ -1,0 +1,59 @@
+_repo: The-Little-Warrior_6837
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Windham, Basil
+    - Wodehouse, Pelham Grenville
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: "Jill The Reckless is a novel by P. G. Wodehouse, first published in\
+  \ the United States on October 8, 1920 by George H. Doran, New York, (under the\
+  \ title The Little Warrior), and in the United Kingdom by Herbert Jenkins, London,\
+  \ on 4 July 1921. It was serialised in Collier's (US) between 10 April and 28 August\
+  \ 1920, in Maclean's (Canada) between 1 August and 15 November 1920, in both cases\
+  \ as The Little Warrior, and, as Jill the Reckless, in the Grand Magazine (UK),\
+  \ from September 1920 to June 1921.\nThe heroine here, Jill Mariner, is a sweet-natured\
+  \ and wealthy young woman who, at the opening, is engaged to a knighted MP, Sir\
+  \ Derek Underhill. We follow her through financial disaster, an adventure with a\
+  \ parrot, a policeman and the colourful proletariat, a broken engagement, an awkward\
+  \ stay with some grasping relatives, employment as a chorus girl, and of course,\
+  \ the finding of true love.\nOther characters include wealthy, dimwitted clubman\
+  \ Freddie Rooke (a precursor of Bertie Wooster), ruggedly attractive writer Wally\
+  \ Mason, both of these childhood friends of Jill's; her financially inept uncle\
+  \ Major Christopher Selby; and Sir Derek's domineering mother, Lady Underhill; Jill's\
+  \ unpleasant relatives in Long Island, New York; Elmer, Julia and Tibby Mariner;\
+  \ Drones Club member Algy Martyn, various chorus girls, composers and other theatrical\
+  \ types, and, of course, miscellaneous servants.\nGeorge Bevan, composer hero of\
+  \ Wodehouse's previous work A Damsel in Distress, receives a passing mention, as\
+  \ does an unspecified member of the Threepwood family.\nThe dust jacket of the UK\
+  \ first edition published by Herbert Jenkins was designed by Edmund Blampied.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6837'
+  wikidata: Q4318019
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicals -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Long Island (N.Y.) -- Fiction'
+- !lcsh 'Broadway (New York, N.Y.) -- Fiction'
+- !lcsh 'Poor women -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Love stories'
+- GITenberg
+title: The Little Warrior
+url: http://www.gutenberg.org/ebooks/6837
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%83%D1%91%D0%BC%D0%BD%D0%B0%D1%8F_%D0%94%D0%B6%D0%B8%D0%BB%D0%BB
+- https://en.wikipedia.org/wiki/Jill_the_Reckless
