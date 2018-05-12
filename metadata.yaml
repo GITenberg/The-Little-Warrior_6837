@@ -1,5 +1,8 @@
 _repo: The-Little-Warrior_6837
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wodehouse, P. G. (Pelham Grenville)
@@ -33,6 +36,8 @@ description: "Jill The Reckless is a novel by P. G. Wodehouse, first published i
   \ does an unspecified member of the Threepwood family.\nThe dust jacket of the UK\
   \ first edition published by Herbert Jenkins was designed by Edmund Blampied.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6837#The-Little-Warrior
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
