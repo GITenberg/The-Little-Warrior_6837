@@ -13,7 +13,7 @@ Author: P. G. Wodehouse
 Posting Date: August 26, 2012 [EBook #6837]
 Release Date: November, 2004
 First Posted: January 29, 2003
-Last Updated: December 5, 2005
+Last Updated: August 30, 2016
 
 Language: English
 
@@ -450,7 +450,7 @@ discomfiture, were those two inseparable allies of his, Ronny
 Devereux and Algy Martyn.
 
 "Well, old thing," said Freddie, patting Derek encouragingly on the
-shoulder, "here we are after all! I know you told me not to roil
+shoulder, "here we are after all! I know you told me not to roll
 round and so forth, but I knew you didn't mean it. I thought it over
 after you had left, and decided it would be a rotten trick not to
 cluster about you in your hour of need. I hope you don't mind Ronny
@@ -736,7 +736,7 @@ his mother, it is certain that much trouble would have been avoided.
 True, Lady Underhill would probably have been rude to her in the
 opening stages of the interview, but she would not have been alarmed
 and suspicious; or, rather, the vague suspicion which she had been
-feeling would not have solidified, as, it did now, into definite
+feeling would not have solidified, as it did now, into definite
 certainty of the worst. All that Derek had effected by his careful
 diplomacy had been to convince his mother that he considered his
 bride-elect something to be broken gently to her.
@@ -977,7 +977,7 @@ coloring of a child's. Her face glowed, and her gray eyes sparkled.
 She looked very much alive.
 
 It was this aliveness of hers that was her chief charm. Her eyes were
-good and her mouth, with its small, even, teeth, attractive, but she
+good and her mouth, with its small, even teeth, attractive, but she
 would have laughed if anybody had called her beautiful. She sometimes
 doubted if she were even pretty. Yet few men had met her and remained
 entirely undisturbed. She had a magnetism. One hapless youth, who had
@@ -1467,7 +1467,7 @@ more like an evening in the Morgue than a Christian dinner-party. She
 tried to help things along best she could. But what with Sir Derek
 chewing his lip 'alf the time and his mother acting about as matey as
 a pennorth of ice-cream, she didn't have a chance. As for the
-guv'nor,-well, I wish you could have seen him, that's all. You know,
+guv'nor,--well, I wish you could have seen him, that's all. You know,
 Ellen, sometimes I'm not altogether easy in my mind about the
 guv'nor's mental balance. He knows how to buy cigars, and you tell me
 his port is good--I never touch it myself--but sometimes he seems to
@@ -2249,7 +2249,7 @@ CHAPTER FOUR
 
 Jill was hardly aware that he had asked her a question. She was
 suffering that momentary sense of unreality which comes to us when
-the years roll away and we are thrown abruptly hack into the days of
+the years roll away and we are thrown abruptly back into the days of
 our childhood. The logical side of her mind was quite aware that
 there was nothing remarkable in the fact that Wally Mason, who had
 been to her all these years a boy in an Eton suit, should now present
@@ -2362,7 +2362,7 @@ enough money left to pay the check, at any rate, so come along."
 
 In the supper-room of the Savoy Hotel there was, as anticipated, food
 and light and music. It was still early, and the theatres had not yet
-emptied themselves, so that the fog room was as yet but half full.
+emptied themselves, so that the big room was as yet but half full.
 Wally Mason had found a table in the corner, and proceeded to order
 with the concentration of a hungry man.
 
@@ -3353,7 +3353,7 @@ back with a loud howl.
 
 There was a lull in the rapid action. The dog, mumbling softly to
 himself, had moved away again and was watching affairs from the edge
-of the sidewalk. Erb, having won, his point, was silent once more.
+of the sidewalk. Erb, having won his point, was silent once more.
 Henry sucked his finger. Bill, having met the world squarely and
 shown it what was what, stood where he was, whistling nonchalantly.
 
@@ -3481,7 +3481,7 @@ about town seemed to have made a deep and unfavorable impression,
 interfering and mucking around. This bird's bit me in the finger, and
 'ere's the finger, if you don't believe me--and I'm going to twist
 'is ruddy neck, if all the perishers with white spats in London come
-messing abart and mucking around, so you I take them white spats of
+messing abart and mucking around, so you take them white spats of
 yours 'ome and give 'em to the old woman to cook for your Sunday
 dinner!"
 
@@ -4047,7 +4047,7 @@ their sisters, their cousins, and their aunts.
 
 Nelly had subsided shyly into the depths of her big armchair. Somehow
 she felt a better and a more important girl since Uncle Chris had
-addressed her. Most people felt like hat after encountering Jill's
+addressed her. Most people felt like that after encountering Jill's
 Uncle Christopher. Uncle Chris had a manner. It was not precisely
 condescending, and yet it was not the manner of an equal. He treated
 you as an equal, true, but all the time you were conscious of the
@@ -6706,7 +6706,7 @@ withdrawing tactfully. He wanted to hear all.
 
 "I've lost it all. Every penny I had in the world."
 
-"Tough!" interpolated Mr Brown judicially. "I broke once way out in a
+"Tough!" interpolated Mr Brown judicially. "I was broke once way out in a
 tank-town in Oklahoma. The manager skipped with our salaries. Last we
 saw of him he was doing the trip to Canada in nothing flat."
 
@@ -8589,7 +8589,7 @@ And then, with a leaping of the heart that seemed to send something
 big and choking into her throat, she saw that it was a photograph of
 herself.
 
-With a swooping hound memory raced hack over the years. She could
+With a swooping bound memory raced back over the years. She could
 feel the hot sun on her face, hear the anxious voice of Freddie
 Rooke--then fourteen and for the first time the owner of a
 camera--imploring her to stand just like that because he wouldn't be
@@ -8726,7 +8726,7 @@ had she found her way here? A momentary wonder as to whether all this
 was not mixed up with telepathy and mental suggestion and all that
 sort of thing came to him. Certainly he had been thinking of her all
 the time since their parting at the Savoy Hotel that night three
-weeks had more back . . . No, that was absurd. There must be some
+weeks and more back . . . No, that was absurd. There must be some
 sounder reason for her presence. He waited for her to give it.
 
 Jill for the moment felt physically incapable of giving it. She
@@ -9585,7 +9585,7 @@ mood was as sunny as the day itself.
 
 And the day, by half-past ten, was as sunny as ever Spring day had
 been in a country where Spring comes early and does its best from the
-very start, The blue sky beamed down on a happy city. To and fro the
+very start. The blue sky beamed down on a happy city. To and fro the
 citizenry bustled, aglow with the perfection of the weather.
 Everywhere was gaiety and good cheer, except on the stage of the
 Gotham Theatre, where an early rehearsal, preliminary to the main
@@ -10092,7 +10092,7 @@ Exchange cataclysm in which, she remembered with the vagueness with
 which one recalls once-heard pieces of information, Freddie Rooke had
 been involved. True, she seemed to recollect hearing that Freddie's
 losses had been comparatively slight, but his presence in the chorus
-of "The Rose of America" seemed to her proof that after all the must
+of "The Rose of America" seemed to her proof that after all they must
 have been devastating. She could think of no other reason except loss
 of money which could have placed Freddie in the position in which she
 now found him, so she accepted it; and, with the delicacy which was
@@ -10390,7 +10390,7 @@ A.D., educated privately and at Bagdad University. Represented Persia
 in the Olympic Games of 1072, winning the sitting high-jump and the
 egg-and-spoon race. The Khayyams were quite a well-known family in
 Bagdad, and there was a lot of talk when Omar, who was Mrs Khayyam's
-pet son, took to drink writing poetry. They had had it all fixed for
+pet son, took to drink and writing poetry. They had had it all fixed for
 him to go into his father's date business."
 
 Mr Goble was impressed. He had a respect for Wally's opinion, for
@@ -11028,7 +11028,7 @@ an indifferent world, with her own problems to settle for herself.
 
 Other men had asked Jill to marry them,--a full dozen of them, here
 and there in country houses and at London before she had met and
-loved Derek Underhill: but that she had had in the way of experience
+loved Derek Underhill: but nothing that she had had in the way of experience
 had prepared her for Wally. These others had given her time to
 marshal her forces, to collect herself, to weigh them thoughtfully in
 the balance. Before speaking, they had signalled their devotion in a
@@ -12269,7 +12269,7 @@ see that you are on the verge of introducing personalities into this
 very pleasant little chat. Resist the impulse! Why not let your spine
 stay where it is instead of having it kicked up through your hat?
 Keep to the main issue. Does Miss Mariner open in New York or does
-she lot?"
+she not?"
 
 There was a tense silence. Mr Goble permitted himself a swift review
 of his position. He would have liked to do many things to Wally,
@@ -13890,7 +13890,7 @@ yards with you, Freddie my boy. There are one or two things I would
 like to talk over. Till tonight, Mrs Peagrim."
 
 "Till tonight, Major Selby." She turned to Mr Pilkington as the door
-closed. "What charming manners Major Selby has, So polished. A sort
+closed. "What charming manners Major Selby has. So polished. A sort
 of old-world courtesy. So smooth!"
 
 "Smooth," said Mr Pilkington dourly, "is right!"
@@ -14213,7 +14213,7 @@ Suppose there were no Wally . . .
 
 Jill gave a sudden gasp, and sat up, tingling. She felt as she had
 sometimes felt as a child, when, on the edge of sleep, she had
-dreamed that she was stepping of a precipice and had woken, tense and
+dreamed that she was stepping off a precipice and had woken, tense and
 alert, to find that there was no danger after all. But there was a
 difference between that feeling and this. She had woken, but to find
 that there was danger. It was as though some inner voice was calling
@@ -14275,7 +14275,7 @@ manner which he would have been glad to find there.
 
 "Jill!" he said huskily.
 
-It deemed to Derek only decent to speak huskily. To his orderly mind
+It seemed to Derek only decent to speak huskily. To his orderly mind
 this situation could be handled only in one way. It was a plain,
 straight issue of the strong man humbling himself--not too much, of
 course, but sufficiently: and it called, in his opinion, for the low
